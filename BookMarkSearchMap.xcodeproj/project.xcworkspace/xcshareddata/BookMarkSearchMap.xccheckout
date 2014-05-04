@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>05E540D0-041E-4BB1-88A7-8CF570B7CE75</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BookMarkSearchMap</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CE014771-99F3-4FC8-BB72-CA672D6158C0</key>
+		<string>https://github.com/kiddkevin00/iOS-App-Project-----Yelp-.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>BookMarkSearchMap.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CE014771-99F3-4FC8-BB72-CA672D6158C0</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/kiddkevin00/iOS-App-Project-----Yelp-.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CE014771-99F3-4FC8-BB72-CA672D6158C0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CE014771-99F3-4FC8-BB72-CA672D6158C0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BookMarkSearchMap</string>
+		</dict>
+	</array>
+</dict>
+</plist>

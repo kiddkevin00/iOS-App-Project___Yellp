@@ -19,7 +19,7 @@ The Latest Version
 ------------------
 
 Details of the latest version can be found on the  project page:
-iOS-App-Project-----Yelp, under https://github.com/kiddkevin00
+```iOS-App-Project-----Yelp```, under https://github.com/kiddkevin00
 
 
 Documentation
@@ -36,8 +36,8 @@ view(page).
 
 Installation
 ------------
-Simply open the project file through Xcode(Version 5.0+), and 
-run it on iPhone Simulator.
+Simply open the project file through Xcode(Version 5.0+). Before 
+running it on iPhone Simulator, make sure ENTER YOUR GOOGLE API KEY in ```ViewController.m```
 
 
 
