@@ -5,7 +5,11 @@
 //  Created by MENG-YI HSU on 4/7/14.
 //  Copyright (c) 2014 Marcus. All rights reserved.
 //
+
+// either way to import
 @import MapKit;
+#import <MapKit/MapKit.h>
+
 #import <COMSMapManager/COMSMapManager.h>
 #import "ViewController.h"
 #import "Annotation.h"
@@ -15,8 +19,6 @@
 @property (weak, nonatomic) IBOutlet MKMapView *map;
 @property (strong,nonatomic)CLLocationManager *manager;
 @property (nonatomic) CLLocationCoordinate2D cur;
-
-
 
 @end
 
